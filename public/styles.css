@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+}
+
+div {
+    display: inline-block;
+}
+
+.container {
+    background-image: linear-gradient(to right, #02aab0, #00cdac);
+    margin-top: 100px;
+    margin-left: 150px;
+    color: white;
+}
+
+h1 {
+    margin: auto;
+    text-align: center;
+}
+
+table {
+    display: table;
+}
+
+.table {
+    margin-left: 38%;
+    color: white;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+    color: rgb(181, 169, 169);
+}
